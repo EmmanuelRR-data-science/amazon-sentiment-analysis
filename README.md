@@ -77,5 +77,6 @@ Este proyecto utiliza un dataset de reseñas de Amazon, procesado con Python, pa
 ---
 
 ## 👤 Autor
-📧 [Correo electrónico](emmanuel.mec@gmail.com)
-🔗 [LinkedIn](linkedin.com/in/emmanuel-data-science)
+📧 [Correo electrónico](mailto:emmanuel.mec@gmail.com)  
+🔗 [LinkedIn](https://linkedin.com/in/emmanuel-data-science)
+
