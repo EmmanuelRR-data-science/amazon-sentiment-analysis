@@ -49,8 +49,7 @@ Este proyecto utiliza un dataset de reseñas de Amazon, procesado con Python, pa
 ---
 
 ## 🌐 Dashboard Interactivo
-🔗 **🔗 **[Ver Dashboard en Tableau Public](https://public.tableau.com/views/Amazon_SA/Dashboard1?:language=es-ES&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)**
-**
+🔗 **[Ver Dashboard en Tableau Public](https://public.tableau.com/views/Amazon_SA/Dashboard1?:language=es-ES&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)**
 
 ---
 
@@ -78,5 +77,5 @@ Este proyecto utiliza un dataset de reseñas de Amazon, procesado con Python, pa
 ---
 
 ## 👤 Autor
-📧 [emmanuel.mec@gmail.com]
-🔗 [linkedin.com/in/emmanuel-data-science]
+📧 [Correo electrónico](emmanuel.mec@gmail.com)
+🔗 [LinkedIn](linkedin.com/in/emmanuel-data-science)
