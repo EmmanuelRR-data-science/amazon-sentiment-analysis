@@ -65,3 +65,18 @@ Este proyecto utiliza un dataset de reseñas de Amazon, procesado con Python, pa
 1. Clonar este repositorio:
    ```bash
    git clone https://github.com/EmmanuelRR-data-science/amazon-sentiment-analysis.git
+
+2. Instalar dependencias en Python
+   ```bash
+   pip install -r requirements.txt
+3. Ejecutar el Jupyter Notebook principal para generar los CSV de análisis.
+
+4. Abrir Tableau y conectar los CSV generados en el notebook.
+
+5. Recrear el dashboard o explorar el publicado en Tableau Public.
+
+---
+
+## 👤 Autor
+📧 [emmanuel.mec@gmail.com]
+🔗 [linkedin.com/in/emmanuel-data-science]
